@@ -1,0 +1,23 @@
+{
+  "name": "Medium RTL Support",
+  "version": "0.1",
+  "minimum_chrome_version": "88.0",
+  "description": "An open-source extension that corrects how Medium.com renders and displays RTL languages' text such as: Arabic, Osmanli Turkish, and Urdu.",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://muktar.tech/*",
+        "https://medium.com/*"
+      ],
+      "js": [
+        "plugin.js"
+      ]
+    }
+  ],
+  "manifest_version": 3
+}
