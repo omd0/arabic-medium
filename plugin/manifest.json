@@ -1,8 +1,8 @@
 {
-  "name": "Medium RTL Support",
-  "version": "0.1",
+  "name": "Medium Arabic",
+  "version": "1.0",
   "minimum_chrome_version": "88.0",
-  "description": "An open-source extension that corrects how Medium.com renders and displays RTL languages' text such as: Arabic, Osmanli Turkish, and Urdu.",
+  "description": "A Chrome plugin that corrects how `medium.com` displays Arabic Meduim blogs.",
   "icons": {
     "16": "icon.png",
     "48": "icon.png",
