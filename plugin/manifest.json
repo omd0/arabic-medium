@@ -1,12 +1,14 @@
 {
-  "name": "Medium Arabic",
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "name": "Arabic Medium",
   "version": "1.0",
   "minimum_chrome_version": "88.0",
   "description": "A Chrome plugin that corrects how `medium.com` displays Arabic Meduim blogs.",
   "icons": {
-    "16": "icon.png",
-    "48": "icon.png",
-    "128": "icon.png"
+    "16": "icon_16x16.png",
+    "48": "icon_48x48.png",
+    "128": "icon_128x128.png"
   },
   "content_scripts": [
     {
