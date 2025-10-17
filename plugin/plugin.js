@@ -1,6 +1,6 @@
 /*
 All rights reserved to Muktar SayedSaleh @ 2023
-Improved and refacored in 2024.
+Modified in 2024 by Emad Fussi (Omd0).
 */
 
 (function() {
@@ -230,3 +230,4 @@ Improved and refacored in 2024.
     });
 
 })();
+
