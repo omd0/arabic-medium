@@ -12,7 +12,8 @@
     {
       "matches": [
         "https://muktar.tech/*",
-        "https://medium.com/*"
+        "https://medium.com/*",
+        "https://*.medium.com/*"
       ],
       "js": [
         "plugin.js"
